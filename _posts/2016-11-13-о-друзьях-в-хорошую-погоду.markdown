@@ -1,7 +1,7 @@
 ---
 layout: post
 title: О друзьях "в хорошую погоду"
-date: {}
+date: 2016-11-13
 description: null
 image: 'https://c2.staticflickr.com/6/5554/30353136795_36e4a8c823.jpg'
 image-sm: null
